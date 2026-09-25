@@ -1,0 +1,6 @@
+{
+  "name": "LearnLens - AI-Assisted Assessment & Learning-Gap Platform",
+  "description": "Educational platform for Grades 1-5 where AI analyzes and teachers verify, decide, and guide student learning gaps with personalized feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
